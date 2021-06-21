@@ -32,3 +32,6 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+# OAuth
+./OAuth.js
